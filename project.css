@@ -9,3 +9,11 @@ display: inline-block;
 #pop {
     background-color: antiquewhite;
 }
+#blank {
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: aqua;
+    position: relative;
+left: 100px;
+}
